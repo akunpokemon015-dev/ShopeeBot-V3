@@ -1,7 +1,7 @@
 package com.example.shopeewarbot;
 
-import android.app.;
-import android.content.;
+import android.app.*;
+import android.content.*;
 import android.net.Uri;
 import android.os.Build;
 
